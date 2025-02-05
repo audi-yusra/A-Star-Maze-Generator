@@ -137,7 +137,7 @@ def A_star(draw, grid, start, end):
     print("no solution")
 ```
 
-##References
+**References**
 
  [Wikipedia: A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
@@ -145,7 +145,7 @@ def A_star(draw, grid, start, end):
 
  [Pygame Documentation](https://www.pygame.org/docs/)
 
-##FutureEnhancements
+**FutureEnhancements**
 
 - Adding diagonal movement.
 
