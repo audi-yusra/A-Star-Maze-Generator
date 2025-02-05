@@ -9,8 +9,6 @@ This project demonstrates the implementation of the A* pathfinding algorithm alo
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Code Explanation](#code-explanation)
-7. [References](References)
-8. [Future Enhancements](#FutureEnhancements)
 
 ## Introduction
 
@@ -136,19 +134,3 @@ def A_star(draw, grid, start, end):
         draw()
     print("no solution")
 ```
-
-**References**
-
- [Wikipedia: A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
-
- [Maze Generation Algorithms](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
-
- [Pygame Documentation](https://www.pygame.org/docs/)
-
-**FutureEnhancements**
-
-- Adding diagonal movement.
-
-- Implementing other pathfinding algorithms (Dijkstra, BFS, DFS).
-
-- Improving UI with additional settings.
