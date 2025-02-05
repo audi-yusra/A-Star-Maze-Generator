@@ -139,11 +139,11 @@ def A_star(draw, grid, start, end):
 
 ##References
 
-- **Wikipedia**: A* Search Algorithm
+#**Wikipedia**: A* Search Algorithm
 
-- Maze Generation Algorithms
+#Maze Generation Algorithms
 
-- Pygame Documentation
+#Pygame Documentation
 
 ##FutureEnhancements
 
